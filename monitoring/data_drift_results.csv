@@ -1,0 +1,31 @@
+feature,psi,status
+SeniorCitizen,0.0,No significant drift
+tenure,0.0067,No significant drift
+MonthlyCharges,0.0124,No significant drift
+TotalCharges,0.0076,No significant drift
+gender_Male,0.0,No significant drift
+Partner_1,0.0,No significant drift
+Dependents_1,0.0,No significant drift
+PhoneService_1,0.0,No significant drift
+MultipleLines_1,0.0,No significant drift
+MultipleLines_No phone service,0.0,No significant drift
+InternetService_DSL,0.0,No significant drift
+InternetService_Fiber optic,0.0,No significant drift
+OnlineSecurity_1,0.0,No significant drift
+OnlineSecurity_No internet service,0.0,No significant drift
+OnlineBackup_1,0.0,No significant drift
+OnlineBackup_No internet service,0.0,No significant drift
+DeviceProtection_1,0.0,No significant drift
+DeviceProtection_No internet service,0.0,No significant drift
+TechSupport_1,0.0,No significant drift
+TechSupport_No internet service,0.0,No significant drift
+StreamingTV_1,0.0,No significant drift
+StreamingTV_No internet service,0.0,No significant drift
+StreamingMovies_1,0.0,No significant drift
+StreamingMovies_No internet service,0.0,No significant drift
+Contract_One year,0.0,No significant drift
+Contract_Two year,0.0,No significant drift
+PaperlessBilling_1,0.0,No significant drift
+PaymentMethod_Credit card (automatic),0.0,No significant drift
+PaymentMethod_Electronic check,0.0,No significant drift
+PaymentMethod_Mailed check,0.0,No significant drift
